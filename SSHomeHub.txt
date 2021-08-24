@@ -1,9 +1,7 @@
 #observed by the Samsung Fridge
 log.samsunghrm.com
 info.cspserver.net
-graph-custom.whisk.com
-pool.ntp.org
-samsung-image-cdn.whisk.com
+#pool.ntp.org
 gld.push.samsungosp.com
 #ipv4.connman.net
 api.tizenservice.com
